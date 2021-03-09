@@ -34,7 +34,7 @@ User can log in and out of their account, and signed in user is persisted:
 User can switch among different tabs- feed view, compose view, and profile view and swipe down to refresh the home timeline:
 
 
-<img src='walkthrough_pt2.gif' title='User can switch among different tabs- feed view, compose view, and profile view.' width='' alt='Video Walkthrough' />
+<img src='walkthrough_pt2_1.gif' title='User can switch among different tabs- feed view, compose view, and profile view.' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
