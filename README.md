@@ -36,6 +36,11 @@ User can switch among different tabs- feed view, compose view, and profile view:
 
 <img src='walkthrough_pt2_1.gif' title='User can switch among different tabs- feed view, compose view, and profile view.' width='' alt='Video Walkthrough' />
 
+User can swipe down to refresh the home timeline
+
+
+<img src='walkthrough_pt2_2.gif' title='User can swipe down to refresh the home timeline' width='' alt='Video walkthrough' />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 
