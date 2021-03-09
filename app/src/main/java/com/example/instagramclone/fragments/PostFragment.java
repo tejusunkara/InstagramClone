@@ -58,6 +58,10 @@ public class PostFragment extends Fragment {
             @Override
             public void onRefresh() {
                 Log.e(TAG, "fetching data");
+                allPosts = new ArrayList<>();
+                adapter = new PostsAdapter(getContext(), allPosts);
+                rvPosts.setAdapter(adapter);
+                rvPosts.setLayoutManager(new LinearLayoutManager(getContext()));
                 queryPosts();
                 swipeContainer.setRefreshing(false);
             }
