@@ -31,15 +31,10 @@ User can log in and out of their account, and signed in user is persisted:
 
 <img src='walkthrough2.gif' title='User can log in and out of their account, and signed in user is persisted.' width='' alt='Video Walkthrough' />
 
-User can switch among different tabs- feed view, compose view, and profile view:
+User can switch among different tabs- feed view, compose view, and profile view and swipe down to refresh the home timeline:
 
 
-<img src='walkthrough_pt2_1.gif' title='User can switch among different tabs- feed view, compose view, and profile view.' width='' alt='Video Walkthrough' />
-
-User can swipe down to refresh the home timeline
-
-
-<img src='walkthrough_pt2_2.gif' title='User can swipe down to refresh the home timeline' width='' alt='Video walkthrough' />
+<img src='walkthrough_pt2.gif' title='User can switch among different tabs- feed view, compose view, and profile view.' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
